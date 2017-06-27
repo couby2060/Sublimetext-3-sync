@@ -1,0 +1,123 @@
+{
+	"replacements":
+	{
+		"Impressum-Replace":
+		{
+			"find": "(?s)Impressum.*",
+			"greedy": true,
+			"name": "Impressum-Replace",
+			"replace": "Impressum: https://www.myfujifilm.de/impressum\\nAGBs: https://www.myfujifilm.de/agb\\nDatenschutz: https://www.myfujifilm.de/datenschutz"
+		},
+		"Newsletter-Abmeldung":
+		{
+			"find": "Klicke hier, wenn du keinen Newsletter mehr erhalten möchtest. Oder wende dich an unseren Kundendienst: kundendienst@myfujifilm.de",
+			"greedy": true,
+			"name": "Newsletter-Abmeldung",
+			"replace": "\\n\\n------------------------------------------------------------\\n\\nWenn du keinen Newsletter mehr erhalten möchtest,\\nkannst du dich hier abmelden:\\nhttps://abmeldung.myfujifilm.de/\\nOder wende dich an unseren Kundendienst:\\nkundendienst@myfujifilm.de",
+		},
+		"Remove Plus X Award":
+		{
+			"find": "(?s)\\s\\sAls .*Jury.\\s\\s\\sPlus X Award\\s\\s",
+			"greedy": true,
+			"name": "Remove Plus X Award",
+			"replace": "",
+		},
+		"Newsletter-Textversion Anrede":
+		{
+			"find": "(?s).*Liebe Kundin, lieber Kunde,",
+			"greedy": true,
+			"name": "Newsletter-Textversion Anrede",
+			"replace": "Liebe Kundin, lieber Kunde",
+		},
+		"Remove trailing spaces and tabs":
+		{
+			"find": "[ \t]+$",
+			"greedy": true,
+			"name": "Remove trailing spaces and tabs",
+			"replace": "",
+		},
+		"ALT-Tags":
+		{
+			"find": "alt=\"[^\"]*\"",
+			"name": "ALT-Tags",
+		},
+		"TITLE-Tags":
+		{
+			"find": "title=\"[^\"]*\"",
+			"name": "TITLE-Tags",
+		},
+		"Euro-Zeichen":
+		{
+			"find": "€",
+			"greedy": true,
+			"name": "Euro-Zeichen",
+			"replace": "&euro;"
+		},
+		"myFUJIFILM: Remove-Linebreak":
+		{
+			"find": "<strong>Klicke hier</strong>\n</a>,",
+			"name": "myFUJIFILM: Remove-Linebreak",
+			"replace": "<strong>Klicke hier</strong></a>,"
+		},
+		"myFUJILM align":
+		{
+			"find": " align=\"",
+			"name": "myFUJILM align",
+			"replace": "\n align=\""
+		},
+		"myFUJILM alt":
+		{
+			"find": " alt=\"",
+			"name": "myFUJILM alt",
+			"replace": "\n alt=\""
+		},
+		"myFUJILM border":
+		{
+			"find": " border=\"",
+			"name": "myFUJILM border",
+			"replace": "\n border=\""
+		},
+		"myFUJILM class":
+		{
+			"find": " class=\"",
+			"name": "myFUJILM class",
+			"replace": "\n class=\""
+		},
+		"myFUJILM data-parsed":
+		{
+			"find": " data-parsed=\"",
+			"name": "myFUJILM data-parsed",
+			"replace": "\n data-parsed=\""
+		},
+		"myFUJILM height":
+		{
+			"find": " height=\"",
+			"name": "myFUJILM height",
+			"replace": "\n height=\""
+		},
+		"myFUJILM src":
+		{
+			"find": " src=\"",
+			"name": "myFUJILM src",
+			"replace": "\n src=\""
+		},
+		"myFUJILM style":
+		{
+			"find": " style=\"",
+			"name": "myFUJILM style",
+			"replace": "\n style=\""
+		},
+		"myFUJILM valign":
+		{
+			"find": " valign=\"",
+			"name": "myFUJILM valign",
+			"replace": "\n valign=\""
+		},
+		"myFUJILM width":
+		{
+			"find": " width=\"",
+			"name": "myFUJILM width",
+			"replace": "\n width=\""
+		}
+	}
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "RegReplace: JWI: myFUJIFILM Newsletter",
+        "command": "reg_replace",
+        "args": {"replacements": ["Euro-Zeichen", "myFUJIFILM: Remove-Linebreak", "myFUJILM style", "myFUJILM align", "myFUJILM alt", "myFUJILM border", "myFUJILM class", "myFUJILM data-parsed", "myFUJILM height", "myFUJILM src", "myFUJILM valign", "myFUJILM width"]}
+    },
+    {
+        "caption": "RegReplace: JWI: Find Meta-Tags",
+        "command": "reg_replace",
+        "args": {"replacements": ["ALT-Tags", "TITLE-Tags"], "action": "select"}
+    },
+    {
+        "caption": "RegReplace: JWI: Trailing Whitespace and Tabs",
+        "command": "reg_replace",
+        "args": {"replacements": ["Remove trailing spaces and tabs"]}
+    },
+    {
+        "caption": "RegReplace: JWI: myFUJIFILM Webversion -> Plaintext",
+        "command": "reg_replace",
+        "args": {"replacements": ["Remove trailing spaces and tabs","Newsletter-Textversion Anrede","Remove Plus X Award","Newsletter-Abmeldung","Impressum-Replace"]}
+    }
+]

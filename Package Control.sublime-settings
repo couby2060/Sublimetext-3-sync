@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Advanced CSV",
+		"Alignment",
+		"BracketHighlighter",
+		"Clipboard Diff",
+		"EasyDiff",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"LanguageTool",
+		"Material Theme",
+		"Multi line paste",
+		"Open Folder",
+		"Package Control",
+		"ProcessWire Snippets - Basic",
+		"RegReplace",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Sublimerge 3",
+		"SubNotify",
+		"Super Calculator",
+		"Syntax Highlighting for Sass"
+	]
+}

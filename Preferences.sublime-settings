@@ -3,6 +3,7 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"0_package_control_loader",
 		"Vintage"
 	],
 	"material_theme_accent_acid-lime": true,

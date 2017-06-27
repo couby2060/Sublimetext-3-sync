@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
@@ -15,6 +16,9 @@
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"LanguageTool",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
 		"Material Theme",
 		"Multi line paste",
 		"Open Folder",

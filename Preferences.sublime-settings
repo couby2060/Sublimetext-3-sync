@@ -33,4 +33,5 @@
 	"bold_folder_labels": true,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"expand_sidebar_on_startup": true,
 }

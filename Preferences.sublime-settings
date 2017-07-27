@@ -1,6 +1,6 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -24,5 +24,13 @@
 	[
 		60
 	],
-	"theme": "Material-Theme-Palenight.sublime-theme"
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"fade_fold_buttons": false,
+	"always_show_minimap_viewport": true,
+	"highlight_line":true,
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
+	"bold_folder_labels": true,
+	"show_encoding": true,
+	"show_line_endings": true,
 }

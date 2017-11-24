@@ -1,13 +1,14 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"expand_sidebar_on_startup": true,
 	"fade_fold_buttons": false,
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
@@ -33,5 +34,5 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Material-Theme-Palenight.sublime-theme"
+	"theme": "Adaptive.sublime-theme"
 }

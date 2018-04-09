@@ -29,13 +29,13 @@
 		"ProcessWire Snippets - Basic",
 		"RegReplace",
 		"requirementstxt",
+		"Sass",
 		"SassBeautify",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Sublimerge 3",
 		"SubNotify",
-		"Super Calculator",
-		"Syntax Highlighting for Sass"
+		"Super Calculator"
 	]
 }

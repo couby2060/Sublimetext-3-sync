@@ -13,7 +13,7 @@
 			"find": "Klicke hier, wenn du keinen Newsletter mehr erhalten möchtest. Oder wende dich an unseren Kundendienst: kundendienst@myfujifilm.de",
 			"greedy": true,
 			"name": "Newsletter-Abmeldung",
-			"replace": "\\n\\n------------------------------------------------------------\\n\\nWenn du keinen Newsletter mehr erhalten möchtest,\\nkannst du dich hier abmelden:\\nhttps://abmeldung.myfujifilm.de/\\nOder wende dich an unseren Kundendienst:\\nkundendienst@myfujifilm.de",
+			"replace": "\\n\\n------------------------------------------------------------\\n\\nWenn du keinen Newsletter mehr erhalten möchtest,\\nkannst du dich hier abmelden:\\nhttps://abmeldung.myfujifilm.de/?hash=[CUST_EMAIL_SHA256]&id=[CUST_NO]\\nOder wende dich an unseren Kundendienst:\\nkundendienst@myfujifilm.de",
 		},
 		"Remove Plus X Award":
 		{

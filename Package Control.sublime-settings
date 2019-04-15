@@ -2,16 +2,15 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"Advanced CSV",
 		"Alignment",
-		"Anaconda",
 		"BracketHighlighter",
 		"Clipboard Diff",
-		"Djaneiro",
 		"EasyDiff",
 		"Emmet",
 		"Fix Mac Path",
@@ -19,24 +18,17 @@
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"LanguageTool",
-		"MarkdownEditing",
-		"MarkdownHighlighting",
-		"MarkdownPreview",
 		"Material Theme",
 		"Move By Paragraph",
 		"Multi line paste",
 		"Open Folder",
 		"Package Control",
-		"ProcessWire Snippets - Basic",
+		"Regex Escape",
 		"RegReplace",
-		"requirementstxt",
 		"Sass",
 		"SassBeautify",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeLinter",
 		"Sublimerge 3",
-		"SubNotify",
 		"Super Calculator"
 	]
 }

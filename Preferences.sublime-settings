@@ -4,11 +4,11 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"expand_sidebar_on_startup": true,
 	"fade_fold_buttons": false,
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
+		"0_package_control_loader",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
@@ -28,10 +28,6 @@
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_tree_headings": true,
-	"rulers":
-	[
-		60
-	],
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Material-Theme-Palenight.sublime-theme"
